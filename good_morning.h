@@ -1,3 +1,3 @@
 #include<iostream>
-using namespaces std;
+using namespace std;
 void good_morning();
